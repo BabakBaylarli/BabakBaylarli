@@ -47,5 +47,6 @@ I'm a backend developer with **2+ years of hands-on experience in the banking se
 ### 📫 Contact
 
 - LinkedIn: [linkedin.com/in/babek-beylerli](https://www.linkedin.com/in/babek-beylerli/)
-- Email: _add your email_
-- Telegram: _add your username_
+- Email: [baylarbabek@gmail.com](mailto:baylarbabek@gmail.com)
+- Telegram: [@baylarbabek](https://t.me/baylarbabek)
+- WhatsApp: [+994 70 800 50 39](https://wa.me/994708005039)
