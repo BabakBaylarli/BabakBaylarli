@@ -1,23 +1,40 @@
 # Hi, I'm Babek 👋
 
-**Backend Developer · Java & Spring Boot · Fintech / Banking**
+**Java Backend Developer @ Kapital Bank · Spring Boot · Fintech / Open Banking**
 
-I'm a backend developer with **2+ years of hands-on experience in the banking sector**, building reliable, secure and scalable systems. I work on REST APIs, payment integrations, event-driven architectures and search/logging infrastructure — with a strong focus on clean code, security and on-time delivery.
+I'm a backend developer with **2+ years of hands-on experience in the banking sector**, building reliable, secure and scalable systems. I work on Open Banking REST APIs, payment integrations, event-driven architectures and search/logging infrastructure — with a strong focus on clean code, security and on-time delivery.
 
-📍 Azerbaijan (UTC+4) · 💼 Open to freelance & remote work
+📍 Baku, Azerbaijan (UTC+4) · 💼 Open to freelance & remote work
+
+[![CV](https://img.shields.io/badge/📄_View_my_CV-FlowCV-ff4f81?style=for-the-badge)](https://flowcv.com/resume/om07c3busd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-babek--beylerli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babek-beylerli/)
+
+---
+
+### 💼 Experience
+
+- **Java Developer — [Kapital Bank](https://www.kapitalbank.az/)**, Baku
+  Open Banking backend services: secure, regulation-compliant REST APIs, Kafka-based event-driven integrations, Spring Security / OAuth2 / JWT, Elasticsearch & Kibana for search and logging.
+- **Java Instructor — [Compar Academy](https://compar.edu.az/az/)**, Baku
+  Teaching Java Core, OOP and backend fundamentals through hands-on, real-world projects; code review and mentoring.
+
+### 🎓 Education
+
+- **Master's Degree in Data Analytics** — Azerbaijan Technical University
+- **Bachelor's Degree in Information Security** — Baku Engineering University
+- **Backend Development (Java)** course — Texnoera Academy
 
 ---
 
 ### 🛠 Tech Stack
 
-**Languages:** Java · SQL
-**Frameworks:** Spring Boot · Spring Security · Spring Data JPA · Hibernate
-**Messaging & Streaming:** Apache Kafka
-**Search & Observability:** Elasticsearch · Kibana
-**Databases:** PostgreSQL · MySQL · Redis
-**Payments:** Yuno · Stripe
-**Tools & DevOps:** Docker · Git · Maven/Gradle · Linux · Swagger/OpenAPI
-**Integrations:** JWT/OAuth2 · Telegram Bot API · REST/third-party APIs
+- **Languages:** Java (SE / EE) · SQL
+- **Frameworks:** Spring Boot · Spring Security · Spring Data JPA · Hibernate
+- **Architecture & APIs:** REST · Microservices · Event-driven · Open Banking · JWT/OAuth2 · Swagger/OpenAPI
+- **Messaging & Search:** Apache Kafka · Elasticsearch · Kibana
+- **Databases:** PostgreSQL · MySQL · Redis · Liquibase
+- **Tools & DevOps:** Docker · Git · Maven/Gradle · Linux · CI/CD
+- **Payments & Integrations:** Stripe · Yuno · Telegram Bot API · third-party REST APIs
 
 ---
 
@@ -38,14 +55,19 @@ I'm a backend developer with **2+ years of hands-on experience in the banking se
 
 | Project | Description | Stack |
 |---|---|---|
-| _Coming soon_ | Payment service with auth, roles and payment provider integration | Spring Boot, PostgreSQL, Docker |
-| _Coming soon_ | Event-driven transaction processing with search & monitoring | Spring Boot, Kafka, Elasticsearch, Kibana |
-| _Coming soon_ | Job-alert bot with AI-drafted proposals | Spring Boot, Telegram API |
+| [JWT Security Service](https://github.com/BabekBeylerli/ms-1-security) | Token-based authentication and role-based authorization | Spring Boot, Spring Security, JWT |
+| [Turbo.az Clone](https://github.com/BabekBeylerli/turbo_spring_project) | Car marketplace backend with listings management via REST API | Spring Boot, REST API |
+| [Rent-a-Car App](https://github.com/BabekBeylerli/Rentku-app) | Car rental backend for vehicles, customers and bookings | Java, Spring Boot |
+| [Book–Author–User API](https://github.com/BabekBeylerli/book-author-user) | REST API with Liquibase-managed schema and Swagger docs | Spring Boot, PostgreSQL, Liquibase, Swagger |
+| [Email Sender on Registration](https://github.com/BabekBeylerli/email-sender-register) | Sends a confirmation email when a user registers | Spring Boot, Java Mail |
+
+More of my earlier projects: [github.com/BabekBeylerli](https://github.com/BabekBeylerli)
 
 ---
 
 ### 📫 Contact
 
+- 📄 CV: [flowcv.com/resume/om07c3busd](https://flowcv.com/resume/om07c3busd)
 - LinkedIn: [linkedin.com/in/babek-beylerli](https://www.linkedin.com/in/babek-beylerli/)
 - Email: [baylarbabek@gmail.com](mailto:baylarbabek@gmail.com)
 - Telegram: [@baylarbabek](https://t.me/baylarbabek)
