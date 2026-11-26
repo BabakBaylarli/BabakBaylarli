@@ -53,15 +53,7 @@ I'm a backend developer with **2+ years of hands-on experience in the banking se
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [JWT Security Service](https://github.com/BabekBeylerli/ms-1-security) | Token-based authentication and role-based authorization | Spring Boot, Spring Security, JWT |
-| [Turbo.az Clone](https://github.com/BabekBeylerli/turbo_spring_project) | Car marketplace backend with listings management via REST API | Spring Boot, REST API |
-| [Rent-a-Car App](https://github.com/BabekBeylerli/Rentku-app) | Car rental backend for vehicles, customers and bookings | Java, Spring Boot |
-| [Book–Author–User API](https://github.com/BabekBeylerli/book-author-user) | REST API with Liquibase-managed schema and Swagger docs | Spring Boot, PostgreSQL, Liquibase, Swagger |
-| [Email Sender on Registration](https://github.com/BabekBeylerli/email-sender-register) | Sends a confirmation email when a user registers | Spring Boot, Java Mail |
-
-More of my earlier projects: [github.com/BabekBeylerli](https://github.com/BabekBeylerli)
+_New projects are on the way — stay tuned!_
 
 ---
 
